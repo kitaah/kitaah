@@ -27,7 +27,7 @@
 - **Gestion de projet**: Jira
 - **Maquettage**: Adobe XD et Adobe Photoshop
 - **IDE:** Visual Studio code, Visual Studio
-- **Serveur local:** MAMP et WampServer
+- **Serveur local:** MAMP, WampServer
 - **SGBD**: MariaDB, MySQL, SQL Server, SQL Server Express
 - **Gestion de de base de données**: phpMyAdmin, SQL Server Management Studio
 - **Gestion de version**: Git
