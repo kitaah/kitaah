@@ -1,6 +1,6 @@
 <h1 align="center">Mélanie Roussy</h1>
 <h3 align="center">Développeur informatique junior originaire de Bordeaux</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kitaah&label=Profile%20views&color=0e75b6&style=flat" width="20" alt="kitaah" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kitaah&label=Profile%20views&color=0e75b6&style=flat" alt="kitaah" /> </p>
 
 
 
