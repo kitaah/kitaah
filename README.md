@@ -29,6 +29,7 @@
 - **IDE:** Visual Studio code, Visual Studio
 - **Serveur local:** MAMP et WampServer
 - **SGBD**: MariaDB, MySQL, SQL Server, SQL Server Express
+- **Gestion de de base de données**: phpMyAdmin, SQL Server Management Studio
 - **Gestion de version**: Git
 
 <p align="center"><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></p>
