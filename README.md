@@ -1,4 +1,3 @@
-<p align="center"><img align="center" alt="Coding" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"></p>
 <h1 align="center">Mélanie Roussy</h1>
 <h3 align="center">Développeur informatique junior originaire de Bordeaux</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kitaah&label=Profile%20views&color=0e75b6&style=flat" alt="kitaah" /> </p>
@@ -40,4 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitaah&show_icons=true&locale=en&theme=synthwave" alt="rishavchanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kitaah&&theme=tokyonight" alt="kitaah" /></p>
+
+<p align="center"><img align="center" alt="Coding" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"></p>
 
