@@ -25,7 +25,7 @@
 ## Outils
 
 - **Gestion de projet**: Jira
-- **Maquettage**: Adobe XD et Photoshop
+- **Maquettage**: Adobe XD et Adobe Photoshop
 - **IDE:** Visual Studio code, Visual Studio
 - **Serveur local:** MAMP et WampServer
 - **SGBD**: MariaDB, MySQL, SQL Server, SQL Server Express
