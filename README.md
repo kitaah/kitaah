@@ -5,7 +5,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="kitaah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kitaah&label=Profile%20views&color=0e75b6&style=flat" alt="kitaah" /> </p>
+
 - 🔭 Actuellement je travaille sur **un projet d'application en C#**
 
 - 🌱 J'apprends actuellement **le C# et le Java**
