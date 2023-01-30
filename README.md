@@ -1,11 +1,9 @@
 <p align="center"> <img src="https://giphy.com/clips/qwpx3amXzX7GAmjg7C" alt="kitaah" width="500" /></p>
 <h1 align="center">Mélanie Roussy</h1>
 <h3 align="center">Développeur informatique junior originaire de Bordeaux</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 
-
-<p align="left"> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="kitaah" /> </p>
 
 - 🔭 Actuellement je travaille sur **un projet d'application en C#**
 
