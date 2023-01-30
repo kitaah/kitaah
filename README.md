@@ -1,4 +1,4 @@
-[![MasterHead]<p align="center"> <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" alt="kitaah" /></p>
+<p align="center"> <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" alt="kitaah" width="100" /></p>
 <h1 align="center">Mélanie Roussy</h1>
 <h3 align="center">Développeur informatique junior originaire de Bordeaux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
