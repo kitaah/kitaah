@@ -10,7 +10,7 @@
 
 - 👨‍💻 Tous mes projets sont disponbiles sur mon Github
 
-<p align="center"><img align="center" alt="Coding" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"></p>
+<p align="center"><img align="right" alt="Coding" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"></p>
 
 
 ## Langages et frameworks
