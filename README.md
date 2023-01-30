@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/J8M9yDP9P2Fn3PdBzM/giphy.gif)](https://rishavchanda.io)
+[![MasterHead]<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="kitaah" /> </p>
 <h1 align="center">Mélanie Roussy</h1>
 <h3 align="center">Développeur informatique junior originaire de Bordeaux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
