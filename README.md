@@ -8,7 +8,7 @@
 
 - 🌱 J'apprends actuellement **le C# et le Java**
 
-- 👨‍💻 Tous mes projets sont disponbiles sur mon Github
+- 👨‍💻 Tous mes projets sont disponnibles sur mon **Github**
 
 <p align="center"><img alt="Coding" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"></p>
 
