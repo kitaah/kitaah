@@ -15,7 +15,7 @@
 
 ## Langages et frameworks
 
-- **Front-end:** HTML, CSS, JavaScript, SASS
+- **Front-end:** HTML, CSS, Java, JavaScript, SASS
 - **Back-end:**  PHP, Python
 - **Frameworks**: .NET, Bootstrap, Flask
 
