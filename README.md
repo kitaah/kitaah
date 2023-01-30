@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kitaah&label=Profile%20views&color=0e75b6&style=flat" alt="kitaah" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="kitaah" /> </p>
 
 - 🔭 Actuellement je travaille sur **un projet d'application en C#**
 
