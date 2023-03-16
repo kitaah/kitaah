@@ -30,7 +30,7 @@
 - **IDE:** Visual Studio code, Visual Studio, IntelliJ IDEA
 - **Serveur local:** MAMP, WampServer
 - **SGBD**: MariaDB, MySQL, PostgreSQL, SQL Server, SQL Server Express
-- **Gestion de de base de données**: DBeaver, phpMyAdmin, SQL Server Management Studio
+- **Gestion de base données**: DBeaver, phpMyAdmin, SQL Server Management Studio
 - **Manipulation d'API**: Postman, Swagger
 - **Gestion de version**: Git
 
