@@ -4,9 +4,9 @@
 
 
 
-- 🔭 Actuellement je travaille sur **un projet d'application en Java**
+- 🔭 Actuellement je travaille sur **un projet d'application en PHP sous Docker**
 
-- 🌱 J'apprends actuellement **le Java**
+- 🌱 J'apprends actuellement **Docker**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon **Github**
 
