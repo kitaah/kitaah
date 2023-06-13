@@ -15,8 +15,8 @@
 
 ## Langages, librairie et frameworks
 
-- **Langages front-end étudiées:** HTML, CSS, JavaScript, SASS
-- **Langages back-end étudiées:**  #C, PHP, Java, Python, SQL
+- **Langages front-end étudiés:** HTML, CSS, JavaScript, SASS
+- **Langages back-end étudiés:**  #C, PHP, Java, Python, SQL
 - **Frameworks étudiés**: ASP.NET Core, .NET, Bootstrap, Flask, Spring Boot, Laravel Yii
 - **Librairie**: React
 
