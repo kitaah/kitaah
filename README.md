@@ -28,7 +28,7 @@
 - **Gestion de projet**: Jira
 - **Maquettage**: Adobe XD, Adobe Photoshop
 - **OS:** Windows, Linux
-- **IDE:**PhpStorm, Visual Studio code, Visual Studio, IntelliJ IDEA
+- **IDE:** PhpStorm, Visual Studio code, Visual Studio, IntelliJ IDEA
 - **DevOps:** Docker
 - **Serveur local:** MAMP, WampServer
 - **SGBD**: MariaDB, MySQL, PostgreSQL, SQL Server, SQL Server Express
