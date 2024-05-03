@@ -15,7 +15,7 @@
 
 ## Langages et frameworks
 
-- **Langage front-end:** HTML, CSS, Dart, JavaScript, SASS
+- **Langage front-end:** HTML, C#, CSS, Dart, JavaScript, SASS
 - **Langage back-end:**  PHP
 - **Framework étudiés**: Drupal, Flutter, Laravel, React
 
