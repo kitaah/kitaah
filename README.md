@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Actuellement je travaille sur **un projet d'application sous Laravel et Flutter**
+- 🔭 Actuellement je travaille sur **un projet d'application intégrant Laravel et Flutter**
 
 - 🌱 Je me forme actuellement sur **Flutter**
 
