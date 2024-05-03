@@ -22,9 +22,9 @@
 ## Outils
 
 - **Gestion de projet**: Jira
-- **IDE:** Android Studio, DataGrip, PhpStorm, Visual Studio Code
+- **IDE:** Android Studio, DataGrip, PhpStorm, Visual Studio, Visual Studio Code
 - **DevOps:** Docker, Git, GitHub, GitLab
-- **SGBD**: MariaDB, MySQL, PostgreSQL
+- **SGBD**: MariaDB, Microsoft SQL Server, MySQL, PostgreSQL
 - **Gestion de base données**: Adminer, phpMyAdmin
 - **Manipulation d'API**: Postman, OpenAPI
 - **Analyse de code statique:** SonarQube
