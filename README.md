@@ -4,9 +4,9 @@
 
 
 
-- 🔭 Actuellement je travaille sur **un projet d'application intégrant Laravel et Flutter**
+- 🔭 Actuellement je travaille sur **un projet d'application visant à l'apprentissage de Symfony**
 
-- 🌱 Je me forme actuellement sur **Flutter**
+- 🌱 Je me forme actuellement sur **Symfony**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon **Github**
 
@@ -15,16 +15,16 @@
 
 ## Langages et frameworks
 
-- **Langage front-end:** HTML, CSS, Dart, JavaScript, SASS
-- **Langage back-end:**  PHP, C#, Java
-- **Framework étudiés**: Drupal, Flutter, Laravel, React, Spring
+- **Langage front-end:** HTML, CSS, JavaScript, SCSS
+- **Langage back-end et de requête:**  PHP, SQL
+- **Frameworks**: Bootstrap, Drupal, Laravel, Symfony, React
 
 ## Outils
 
 - **Gestion de projet**: Jira
-- **IDE:** Android Studio, DataGrip, PhpStorm, Visual Studio, Visual Studio Code
+- **IDE:** DataGrip, PhpStorm, Visual Studio, WebStorm
 - **DevOps:** Docker, Git, GitHub, GitLab
-- **SGBD**: MariaDB, Microsoft SQL Server, MySQL, PostgreSQL
+- **SGBD**: MariaDB, MySQL, PostgreSQL
 - **Gestion de base données**: Adminer, phpMyAdmin
 - **Manipulation d'API**: Postman, OpenAPI
 - **Analyse de code statique:** SonarQube
