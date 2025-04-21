@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Actuellement je travaille sur **un projet d'application visant à l'apprentissage de Symfony**
+- 🔭 Actuellement je travaille sur **un projet d'application visant à l'apprentissage de React et Express.js**
 
 - 🌱 Je me forme actuellement sur **Symfony**
 
@@ -15,9 +15,9 @@
 
 ## Langages et frameworks
 
-- **Langage front-end:** HTML, CSS, JavaScript, SCSS
+- **Langage front-end:** HTML, CSS, JavaScript, SCSS, TypeScript
 - **Langage back-end et de requête:**  PHP, SQL
-- **Frameworks**: Bootstrap, Drupal, Laravel, Symfony, React
+- **Frameworks**: Bootstrap, Drupal, Laravel, React, Express.js
 
 ## Outils
 
@@ -25,7 +25,7 @@
 - **IDE:** DataGrip, PhpStorm, Visual Studio, WebStorm
 - **DevOps:** Docker, Git, GitHub, GitLab
 - **SGBD**: MariaDB, MySQL, PostgreSQL
-- **Gestion de base données**: Adminer, phpMyAdmin
+- **Gestion de base données**: Adminer, phpMyAdmin, PgAdmin
 - **Manipulation d'API**: Postman, OpenAPI
 - **Analyse de code statique:** SonarQube
 
