@@ -6,18 +6,16 @@
 
 - 🔭 Actuellement je travaille sur **un projet d'application visant à l'apprentissage de React et Express.js**
 
-- 🌱 Je me forme actuellement sur **Symfony**
-
-- 👨‍💻 Tous mes projets sont disponibles sur mon **Github**
+- 🌱 Je me forme actuellement sur **Express.js**
 
 <p align="center"><img alt="Coding" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"></p>
 
 
 ## Langages et frameworks
 
-- **Langage front-end:** HTML, CSS, JavaScript, SCSS, TypeScript
-- **Langage back-end et de requête:**  PHP, SQL
-- **Frameworks**: Bootstrap, Drupal, Laravel, React, Express.js
+- **Langage front-end étudiés:** HTML, CSS, JavaScript, SCSS, TypeScript
+- **Langage back-end étudiés et de requête:**  #C, Java, PHP, SQL
+- **Frameworks étudiés**: Bootstrap, Drupal, Laravel, React, Express.js, Spring Boot, .NET
 
 ## Outils
 
