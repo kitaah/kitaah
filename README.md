@@ -20,7 +20,7 @@
 ## Outils
 
 - **Gestion de projet**: Jira
-- **IDE:** DataGrip, PhpStorm, Visual Studio, WebStorm
+- **IDE:** DataGrip, PhpStorm, Visual Studio, WebStorm, IntelliJ
 - **DevOps:** Docker, Git, GitHub, GitLab
 - **SGBD**: MariaDB, MySQL, PostgreSQL
 - **Gestion de base données**: Adminer, phpMyAdmin, PgAdmin
